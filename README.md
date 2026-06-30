@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Divya112-ai/DSA/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divya112-ai/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Divya112-ai/DSA/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Divya112-ai/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Divya112-ai/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Divya112-ai/DSA/tree/master/1672-richest-customer-wealth) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divya112-ai/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Divya112-ai/DSA/tree/master/0217-contains-duplicate) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divya112-ai/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/Divya112-ai/DSA/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divya112-ai/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Divya112-ai/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Divya112-ai/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Divya112-ai/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Divya112-ai/DSA/tree/master/1672-richest-customer-wealth) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Divya112-ai/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Divya112-ai/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divya112-ai/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Divya112-ai/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Divya112-ai/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Divya112-ai/DSA/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/Divya112-ai/DSA/tree/master/1288-remove-covered-intervals) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Divya112-ai/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Binary Search
 |  |
 | ------- |

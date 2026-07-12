@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Divya112-ai/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Divya112-ai/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Divya112-ai/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Divya112-ai/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Divya112-ai/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Divya112-ai/DSA/tree/master/0268-missing-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Divya112-ai/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divya112-ai/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Divya112-ai/DSA/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Divya112-ai/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Divya112-ai/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Divya112-ai/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divya112-ai/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Divya112-ai/DSA/tree/master/0048-rotate-image) |
 | [1301-number-of-paths-with-max-score](https://github.com/Divya112-ai/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/Divya112-ai/DSA/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Divya112-ai/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |

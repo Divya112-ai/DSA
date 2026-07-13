@@ -185,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Divya112-ai/DSA/tree/master/2390-removing-stars-from-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Divya112-ai/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

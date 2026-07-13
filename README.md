@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Divya112-ai/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Divya112-ai/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Divya112-ai/DSA/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Divya112-ai/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Divya112-ai/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Divya112-ai/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Divya112-ai/DSA/tree/master/0268-missing-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Divya112-ai/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Divya112-ai/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Divya112-ai/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Divya112-ai/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Divya112-ai/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Divya112-ai/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divya112-ai/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Divya112-ai/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Divya112-ai/DSA/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Divya112-ai/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Divya112-ai/DSA/tree/master/3620-network-recovery-pathways) |

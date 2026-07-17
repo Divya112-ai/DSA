@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Divya112-ai/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Divya112-ai/DSA/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Divya112-ai/DSA/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Divya112-ai/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Divya112-ai/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Divya112-ai/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divya112-ai/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Divya112-ai/DSA/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Divya112-ai/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divya112-ai/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/Divya112-ai/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Divya112-ai/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Divya112-ai/DSA/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Divya112-ai/DSA/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/Divya112-ai/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |

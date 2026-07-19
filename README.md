@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Divya112-ai/DSA/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Divya112-ai/DSA/tree/master/0520-detect-capital) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divya112-ai/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divya112-ai/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divya112-ai/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Divya112-ai/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divya112-ai/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Divya112-ai/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
 |  |
@@ -260,8 +262,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Divya112-ai/DSA/tree/master/0055-jump-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divya112-ai/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Combinatorics
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Divya112-ai/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divya112-ai/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Divya112-ai/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Divya112-ai/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Divya112-ai/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Divya112-ai/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Divya112-ai/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Divya112-ai/DSA/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Divya112-ai/DSA/tree/master/0412-fizz-buzz) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Divya112-ai/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Divya112-ai/DSA/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Divya112-ai/DSA/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Divya112-ai/DSA/tree/master/1929-concatenation-of-array) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Divya112-ai/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Divya112-ai/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Divya112-ai/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divya112-ai/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |

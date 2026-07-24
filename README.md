@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Divya112-ai/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Divya112-ai/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Divya112-ai/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Divya112-ai/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divya112-ai/DSA/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Divya112-ai/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Divya112-ai/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divya112-ai/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Divya112-ai/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Divya112-ai/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divya112-ai/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Divya112-ai/DSA/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Divya112-ai/DSA/tree/master/0520-detect-capital) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Divya112-ai/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Divya112-ai/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Divya112-ai/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Divya112-ai/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divya112-ai/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Divya112-ai/DSA/tree/master/0414-third-maximum-number) |
 | [1288-remove-covered-intervals](https://github.com/Divya112-ai/DSA/tree/master/1288-remove-covered-intervals) |

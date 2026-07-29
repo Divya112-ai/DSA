@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Divya112-ai/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Divya112-ai/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Divya112-ai/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Divya112-ai/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Divya112-ai/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Divya112-ai/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Divya112-ai/DSA/tree/master/0189-rotate-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divya112-ai/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Divya112-ai/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Divya112-ai/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Divya112-ai/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Divya112-ai/DSA/tree/master/0217-contains-duplicate) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divya112-ai/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Divya112-ai/DSA/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Divya112-ai/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Divya112-ai/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Divya112-ai/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Divya112-ai/DSA/tree/master/0125-valid-palindrome) |

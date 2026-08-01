@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Divya112-ai/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Divya112-ai/DSA/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Divya112-ai/DSA/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/Divya112-ai/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Divya112-ai/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya112-ai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Divya112-ai/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Divya112-ai/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Divya112-ai/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Divya112-ai/DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Divya112-ai/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Divya112-ai/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Divya112-ai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya112-ai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Divya112-ai/DSA/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/Divya112-ai/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divya112-ai/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/Divya112-ai/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Divya112-ai/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Divya112-ai/DSA/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Divya112-ai/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Divya112-ai/DSA/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Divya112-ai/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Divya112-ai/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Divya112-ai/DSA/tree/master/1025-divisor-game) |
 ## Stack
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Divya112-ai/DSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Divya112-ai/DSA/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/Divya112-ai/DSA/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Divya112-ai/DSA/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |

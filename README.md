@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Divya112-ai/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Divya112-ai/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Divya112-ai/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divya112-ai/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Divya112-ai/DSA/tree/master/3620-network-recovery-pathways) |
 | [3731-find-missing-elements](https://github.com/Divya112-ai/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Divya112-ai/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Divya112-ai/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Divya112-ai/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Divya112-ai/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divya112-ai/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Divya112-ai/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Divya112-ai/DSA/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divya112-ai/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divya112-ai/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Divya112-ai/DSA/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Divya112-ai/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divya112-ai/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Divya112-ai/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divya112-ai/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Divya112-ai/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Divya112-ai/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Divya112-ai/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Divya112-ai/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Divya112-ai/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Divya112-ai/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divya112-ai/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Divya112-ai/DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -319,12 +324,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Divya112-ai/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divya112-ai/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/Divya112-ai/DSA/tree/master/2396-strictly-palindromic-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divya112-ai/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Divya112-ai/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Divya112-ai/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Divya112-ai/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divya112-ai/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Divya112-ai/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -394,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Divya112-ai/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divya112-ai/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divya112-ai/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Divya112-ai/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
 | ------- |

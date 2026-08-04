@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Divya112-ai/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Divya112-ai/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Divya112-ai/DSA/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Divya112-ai/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Divya112-ai/DSA/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Divya112-ai/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Divya112-ai/DSA/tree/master/0066-plus-one) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divya112-ai/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Divya112-ai/DSA/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/Divya112-ai/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Divya112-ai/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divya112-ai/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Divya112-ai/DSA/tree/master/0486-predict-the-winner) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Divya112-ai/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Divya112-ai/DSA/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divya112-ai/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Divya112-ai/DSA/tree/master/1833-maximum-ice-cream-bars) |

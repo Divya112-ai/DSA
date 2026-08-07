@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divya112-ai/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Divya112-ai/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Divya112-ai/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Divya112-ai/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divya112-ai/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Divya112-ai/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Divya112-ai/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Divya112-ai/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divya112-ai/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Divya112-ai/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Divya112-ai/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Divya112-ai/DSA/tree/master/0191-number-of-1-bits) |
 ## Brainteaser

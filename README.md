@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Divya112-ai/DSA/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Divya112-ai/DSA/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Divya112-ai/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Divya112-ai/DSA/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Divya112-ai/DSA/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Divya112-ai/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Divya112-ai/DSA/tree/master/2485-find-the-pivot-integer) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Divya112-ai/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divya112-ai/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Divya112-ai/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Divya112-ai/DSA/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Divya112-ai/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divya112-ai/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Divya112-ai/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Divya112-ai/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divya112-ai/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Divya112-ai/DSA/tree/master/1512-number-of-good-pairs) |
+| [2029-stone-game-ix](https://github.com/Divya112-ai/DSA/tree/master/2029-stone-game-ix) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Divya112-ai/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divya112-ai/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Divya112-ai/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Divya112-ai/DSA/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Divya112-ai/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Divya112-ai/DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Divya112-ai/DSA/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Divya112-ai/DSA/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Divya112-ai/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Divya112-ai/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/Divya112-ai/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divya112-ai/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divya112-ai/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Divya112-ai/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -499,12 +504,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Divya112-ai/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Divya112-ai/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Divya112-ai/DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Divya112-ai/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Divya112-ai/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Divya112-ai/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Divya112-ai/DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Divya112-ai/DSA/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -519,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Divya112-ai/DSA/tree/master/0292-nim-game) |
+| [2029-stone-game-ix](https://github.com/Divya112-ai/DSA/tree/master/2029-stone-game-ix) |
 ## Impartial Game
 |  |
 | ------- |

@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Divya112-ai/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Divya112-ai/DSA/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Divya112-ai/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0554-brick-wall](https://github.com/Divya112-ai/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Divya112-ai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya112-ai/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Divya112-ai/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Divya112-ai/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Divya112-ai/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Divya112-ai/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0554-brick-wall](https://github.com/Divya112-ai/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Divya112-ai/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Divya112-ai/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divya112-ai/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |

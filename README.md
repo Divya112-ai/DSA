@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Divya112-ai/DSA/tree/master/0100-same-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Divya112-ai/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Divya112-ai/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Divya112-ai/DSA/tree/master/3310-remove-methods-from-project) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Divya112-ai/DSA/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Divya112-ai/DSA/tree/master/0100-same-tree) |
 | [3310-remove-methods-from-project](https://github.com/Divya112-ai/DSA/tree/master/3310-remove-methods-from-project) |
 ## Nim Game
 |  |
@@ -552,4 +554,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Divya112-ai/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Divya112-ai/DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Divya112-ai/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

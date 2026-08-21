@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Divya112-ai/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Divya112-ai/DSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Divya112-ai/DSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Divya112-ai/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Divya112-ai/DSA/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Divya112-ai/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Divya112-ai/DSA/tree/master/0066-plus-one) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Divya112-ai/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Divya112-ai/DSA/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Divya112-ai/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search

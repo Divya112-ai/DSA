@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Divya112-ai/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Divya112-ai/DSA/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Divya112-ai/DSA/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Divya112-ai/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Divya112-ai/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Divya112-ai/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Divya112-ai/DSA/tree/master/0079-word-search) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Divya112-ai/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Divya112-ai/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Divya112-ai/DSA/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Divya112-ai/DSA/tree/master/1260-shift-2d-grid) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Divya112-ai/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Divya112-ai/DSA/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Divya112-ai/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/Divya112-ai/DSA/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Divya112-ai/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Divya112-ai/DSA/tree/master/1301-number-of-paths-with-max-score) |

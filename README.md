@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Divya112-ai/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Divya112-ai/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Divya112-ai/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Divya112-ai/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Divya112-ai/DSA/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Divya112-ai/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Divya112-ai/DSA/tree/master/0066-plus-one) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Divya112-ai/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Divya112-ai/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Divya112-ai/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Divya112-ai/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Divya112-ai/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Divya112-ai/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Divya112-ai/DSA/tree/master/0217-contains-duplicate) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Divya112-ai/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Divya112-ai/DSA/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Divya112-ai/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Divya112-ai/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Divya112-ai/DSA/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Divya112-ai/DSA/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Divya112-ai/DSA/tree/master/0097-interleaving-string) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Divya112-ai/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Divya112-ai/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Divya112-ai/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Divya112-ai/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Divya112-ai/DSA/tree/master/0169-majority-element) |

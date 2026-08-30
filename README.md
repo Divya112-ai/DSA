@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Divya112-ai/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Divya112-ai/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Divya112-ai/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Divya112-ai/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Divya112-ai/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divya112-ai/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Divya112-ai/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Divya112-ai/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Divya112-ai/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Divya112-ai/DSA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Divya112-ai/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Divya112-ai/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divya112-ai/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Divya112-ai/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

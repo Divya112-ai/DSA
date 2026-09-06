@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divya112-ai/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Divya112-ai/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Divya112-ai/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Divya112-ai/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Divya112-ai/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divya112-ai/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Divya112-ai/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Divya112-ai/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Divya112-ai/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Divya112-ai/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Divya112-ai/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Divya112-ai/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/Divya112-ai/DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Divya112-ai/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |

@@ -628,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Divya112-ai/DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Divya112-ai/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Divya112-ai/DSA/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Divya112-ai/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Divya112-ai/DSA/tree/master/3310-remove-methods-from-project) |
 ## Nim Game
 |  |
@@ -651,11 +652,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Divya112-ai/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Divya112-ai/DSA/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Divya112-ai/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Divya112-ai/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Divya112-ai/DSA/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Divya112-ai/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |

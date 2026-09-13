@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Divya112-ai/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Divya112-ai/DSA/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Divya112-ai/DSA/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/Divya112-ai/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Divya112-ai/DSA/tree/master/0877-stone-game) |
 | [0909-snakes-and-ladders](https://github.com/Divya112-ai/DSA/tree/master/0909-snakes-and-ladders) |
 | [1140-stone-game-ii](https://github.com/Divya112-ai/DSA/tree/master/1140-stone-game-ii) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Divya112-ai/DSA/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Divya112-ai/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/Divya112-ai/DSA/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/Divya112-ai/DSA/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/Divya112-ai/DSA/tree/master/0909-snakes-and-ladders) |
 | [1260-shift-2d-grid](https://github.com/Divya112-ai/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Divya112-ai/DSA/tree/master/1301-number-of-paths-with-max-score) |

@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Divya112-ai/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Divya112-ai/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divya112-ai/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya112-ai/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Divya112-ai/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Divya112-ai/DSA/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Divya112-ai/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divya112-ai/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divya112-ai/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Divya112-ai/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya112-ai/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Divya112-ai/DSA/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Divya112-ai/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Divya112-ai/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Divya112-ai/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Divya112-ai/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divya112-ai/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya112-ai/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Divya112-ai/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Divya112-ai/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Divya112-ai/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Divya112-ai/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Divya112-ai/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Divya112-ai/DSA/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya112-ai/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divya112-ai/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Divya112-ai/DSA/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divya112-ai/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Divya112-ai/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/Divya112-ai/DSA/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Divya112-ai/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya112-ai/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Divya112-ai/DSA/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Divya112-ai/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Divya112-ai/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Divya112-ai/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Divya112-ai/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Divya112-ai/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Divya112-ai/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Divya112-ai/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Divya112-ai/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Divya112-ai/DSA/tree/master/0231-power-of-two) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Divya112-ai/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Divya112-ai/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Divya112-ai/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Divya112-ai/DSA/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Divya112-ai/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Divya112-ai/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Divya112-ai/DSA/tree/master/0115-distinct-subsequences) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Divya112-ai/DSA/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divya112-ai/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Divya112-ai/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Divya112-ai/DSA/tree/master/3312-sorted-gcd-pair-queries) |

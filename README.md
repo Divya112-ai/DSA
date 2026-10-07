@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Divya112-ai/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Divya112-ai/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Divya112-ai/DSA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Divya112-ai/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Divya112-ai/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Divya112-ai/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Divya112-ai/DSA/tree/master/0383-ransom-note) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Divya112-ai/DSA/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Divya112-ai/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0909-snakes-and-ladders](https://github.com/Divya112-ai/DSA/tree/master/0909-snakes-and-ladders) |
 | [1096-brace-expansion-ii](https://github.com/Divya112-ai/DSA/tree/master/1096-brace-expansion-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Divya112-ai/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Divya112-ai/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Divya112-ai/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Divya112-ai/DSA/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/Divya112-ai/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Divya112-ai/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Divya112-ai/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search

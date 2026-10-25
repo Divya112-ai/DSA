@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Divya112-ai/DSA/tree/master/0877-stone-game) |
 | [0909-snakes-and-ladders](https://github.com/Divya112-ai/DSA/tree/master/0909-snakes-and-ladders) |
 | [1140-stone-game-ii](https://github.com/Divya112-ai/DSA/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Divya112-ai/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Divya112-ai/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Divya112-ai/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Divya112-ai/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Divya112-ai/DSA/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Divya112-ai/DSA/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/Divya112-ai/DSA/tree/master/0909-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/Divya112-ai/DSA/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Divya112-ai/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Divya112-ai/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/Divya112-ai/DSA/tree/master/1672-richest-customer-wealth) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Divya112-ai/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0909-snakes-and-ladders](https://github.com/Divya112-ai/DSA/tree/master/0909-snakes-and-ladders) |
 | [1096-brace-expansion-ii](https://github.com/Divya112-ai/DSA/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Divya112-ai/DSA/tree/master/1254-number-of-closed-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Divya112-ai/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Divya112-ai/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Divya112-ai/DSA/tree/master/3310-remove-methods-from-project) |
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Divya112-ai/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divya112-ai/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Divya112-ai/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divya112-ai/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -767,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Divya112-ai/DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Divya112-ai/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Divya112-ai/DSA/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/Divya112-ai/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Divya112-ai/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Divya112-ai/DSA/tree/master/3310-remove-methods-from-project) |
 ## Nim Game
